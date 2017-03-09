@@ -1,0 +1,1 @@
+My version of K-Means algorithm for clustering, for a d space given. Also contains a graphical represantion of bidimensional data.
