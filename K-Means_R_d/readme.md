@@ -1,1 +1,1 @@
-My version of K-Means algorithm for clustering, for a d space given. Also contains a graphical represantion of bidimensional data.
+My version of K-Means algorithm for clustering, for a d space given. Also contains a graphical representation of bidimensional data (points) using gnuplot.
